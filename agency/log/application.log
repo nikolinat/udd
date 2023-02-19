@@ -1,0 +1,33 @@
+2023-02-19T21:40:55.804+0100 INFO  Starting AgencyApplication using Java 17.0.5 on DESKTOP-7E9FUNS with PID 9332 (C:\Users\Lenovo\Desktop\udd\udd\agency\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\udd\udd\agency)
+2023-02-19T21:40:55.811+0100 DEBUG Running with Spring Boot v2.6.3, Spring v5.3.15
+2023-02-19T21:40:55.811+0100 INFO  No active profile set, falling back to default profiles: default
+2023-02-19T21:41:01.651+0100 INFO  Started AgencyApplication in 6.185 seconds (JVM running for 7.385)
+2023-02-19T21:42:35.425+0100 TRACE Zemun - Prime - Peter
+2023-02-19T21:46:32.007+0100 TRACE Smederevo - Symphony - Mia
+2023-02-19T21:47:14.273+0100 TRACE Novi Sad - Prime - Peter
+2023-02-19T21:50:53.769+0100 TRACE Beograd - Prime - Peter
+2023-02-19T21:56:41.603+0100 TRACE Beograd - Prime - Peter
+2023-02-19T21:57:49.021+0100 TRACE Beograd - Prime - Peter
+2023-02-19T21:59:24.090+0100 TRACE Beograd - Prime - Peter
+2023-02-19T22:07:10.014+0100 TRACE Beograd - Prime - Peter
+2023-02-19T22:26:31.913+0100 TRACE Beograd - Prime - Peter
+2023-02-19T22:30:55.392+0100 TRACE Beograd - Prime - Peter
+2023-02-19T22:48:02.412+0100 INFO  Starting AgencyApplication using Java 17.0.5 on DESKTOP-7E9FUNS with PID 5404 (C:\Users\Lenovo\Desktop\udd\udd\agency\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\udd\udd\agency)
+2023-02-19T22:48:02.422+0100 DEBUG Running with Spring Boot v2.6.3, Spring v5.3.15
+2023-02-19T22:48:02.423+0100 INFO  No active profile set, falling back to default profiles: default
+2023-02-19T22:48:06.696+0100 INFO  Started AgencyApplication in 4.614 seconds (JVM running for 5.849)
+2023-02-19T22:50:15.115+0100 TRACE Zemun - Prime - Peter
+2023-02-19T22:52:54.445+0100 TRACE Smederevo - Symphony - Mia
+2023-02-19T22:53:42.118+0100 TRACE Smederevo - Prime - Peter
+2023-02-19T22:58:44.893+0100 INFO  Starting AgencyApplication using Java 17.0.5 on DESKTOP-7E9FUNS with PID 6172 (C:\Users\Lenovo\Desktop\udd\udd\agency\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\udd\udd\agency)
+2023-02-19T22:58:44.897+0100 DEBUG Running with Spring Boot v2.6.3, Spring v5.3.15
+2023-02-19T22:58:44.898+0100 INFO  No active profile set, falling back to default profiles: default
+2023-02-19T22:58:49.171+0100 INFO  Started AgencyApplication in 4.61 seconds (JVM running for 5.925)
+2023-02-19T22:59:55.343+0100 TRACE Zemun - Prime - Peter
+2023-02-19T23:01:08.149+0100 TRACE Smederevo - Symphony - Mia
+2023-02-19T23:01:58.895+0100 TRACE Smederevo - Symphony - Mia
+2023-02-19T23:03:37.489+0100 INFO  Starting AgencyApplication using Java 17.0.5 on DESKTOP-7E9FUNS with PID 1432 (C:\Users\Lenovo\Desktop\udd\udd\agency\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\udd\udd\agency)
+2023-02-19T23:03:37.492+0100 DEBUG Running with Spring Boot v2.6.3, Spring v5.3.15
+2023-02-19T23:03:37.493+0100 INFO  No active profile set, falling back to default profiles: default
+2023-02-19T23:03:41.265+0100 INFO  Started AgencyApplication in 4.119 seconds (JVM running for 5.319)
+2023-02-19T23:04:37.799+0100 TRACE Leskovac - RDM - John
